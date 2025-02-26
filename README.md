@@ -1,5 +1,7 @@
 # EPSILON (Ros2 Version on Ubuntu 22.04)
 This repository presents an enhanced version of the HKUST-Aerial-Robotics/EPSILON project, migrated from ROS1 to ROS2 for improved performance and compatibility with modern autonomous driving frameworks.
+
+Your support matters! ⭐ Star this project on GitHub to join a growing community improving autonomous driving technology together! Thanks!
 ## About
 
 This is the project page of the paper "**EPSILON: An Efficient Planning System for Automated Vehicles in Highly Interactive Environments**". In this repo, we provide a simple and lightweight multi-agent simulator based on ROS2 and a demo implementation of the proposed EPSILON planning system.
